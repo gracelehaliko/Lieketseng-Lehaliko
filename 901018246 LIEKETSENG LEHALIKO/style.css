@@ -1,0 +1,10 @@
+body{font-family: Arial;
+margin:0;}
+nav{background:black;
+padding:10px;}
+nav a{color:white;
+margin:10px;
+text-decoration: none;}
+img{display: block;
+margin: auto;}
+form{text-align: center;}
